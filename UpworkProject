@@ -11,7 +11,7 @@ a. Make sure the name of the new exception class ends with the word ‘Exception
 b. Make sure that each object instantiated from this new exception type has attributes that include data about the malfunction.
 
 
-  Phase #2 Define the Location class. Each object instantiated from this class represents a specific location on our planet. 
+Phase #2 Define the Location class. Each object instantiated from this class represents a specific location on our planet. 
 
 
 Phase #3 Define the Weather class. Each object instantiated from this class represents a specific weather using attributes, such as temperature, humidity, wind etc. This class should include the temperature attribute (at the minimum). 
