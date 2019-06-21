@@ -23,6 +23,8 @@ Define the getWeather global function in the new module. This new function shoul
 
 Phase #5
 Develop a small program that demonstrates the use of the new library you developed.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+More details:
+------------------------------------------------------------------------------------------------------------------------------------------
 1. need link for a video on youtube that shows  project working. The video should be either public or unlisted. The video should be 2 minutes length (max). You can use the CamStudio software
 2.You can  send the files in a zip file
